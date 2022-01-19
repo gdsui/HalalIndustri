@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+    //add something
 
     private void initViewS() {
         imageView=findViewById(R.id.image_food);
